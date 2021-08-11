@@ -1,0 +1,1 @@
+arm-linux-gcc *.c -o show_video -I./jpeg -L./jpeg -ljpeg -lapi_v4l2_arm1   // yuyv ÉãÏñÍ·   ->YUV 

@@ -1,0 +1,22 @@
+
+
+wget 192.168.0.1/elevator/btn1/11.jpg
+wget 192.168.0.1/elevator/btn1/12.jpg
+wget 192.168.0.1/elevator/btn1/21.jpg
+wget 192.168.0.1/elevator/btn1/22.jpg
+wget 192.168.0.1/elevator/btn1/31.jpg
+wget 192.168.0.1/elevator/btn1/32.jpg
+wget 192.168.0.1/elevator/btn1/41.jpg
+wget 192.168.0.1/elevator/btn1/42.jpg
+wget 192.168.0.1/elevator/btn1/51.jpg
+wget 192.168.0.1/elevator/btn1/52.jpg
+wget 192.168.0.1/elevator/btn1/61.jpg
+wget 192.168.0.1/elevator/btn1/62.jpg
+wget 192.168.0.1/elevator/btn1/71.jpg
+wget 192.168.0.1/elevator/btn1/72.jpg
+wget 192.168.0.1/elevator/btn1/up1.jpg
+wget 192.168.0.1/elevator/btn1/up2.jpg
+wget 192.168.0.1/elevator/btn1/down1.jpg
+wget 192.168.0.1/elevator/btn1/down2.jpg
+wget 192.168.0.1/elevator/btn1/close1.jpg
+wget 192.168.0.1/elevator/btn1/open1.jpg

@@ -1,0 +1,5 @@
+F:\myCode\C#\elevator\elevator\bin\Release\net5.0-windows\publish\elevator.exe
+F:\myCode\C#\elevator\elevator\bin\Release\net5.0-windows\publish\elevator.dll
+F:\myCode\C#\elevator\elevator\bin\Release\net5.0-windows\publish\elevator.deps.json
+F:\myCode\C#\elevator\elevator\bin\Release\net5.0-windows\publish\elevator.runtimeconfig.json
+F:\myCode\C#\elevator\elevator\bin\Release\net5.0-windows\publish\elevator.pdb

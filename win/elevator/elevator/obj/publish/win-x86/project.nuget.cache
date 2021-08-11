@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VYdDo2FIvXo7Fs1AsYMqOpueDj8zqHwgmr0s3M9DxbCA3+R/fMQ9VSWBX27FCmKaOqiGOT6Se6hs7tjkdyFyg==",
+  "success": true,
+  "projectFilePath": "F:\\myCode\\C#\\elevator\\elevator\\elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wuhen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.8\\microsoft.netcore.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\wuhen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.8.nupkg.sha512",
+    "C:\\Users\\wuhen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.8\\microsoft.aspnetcore.app.runtime.win-x86.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
